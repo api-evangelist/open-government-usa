@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.data.gov/
 common:
+  - type: DomainSecurity
+    url: security/open-government-usa-domain-security.yml
   - type: Website
     url: https://www.data.gov/
   - type: PublicAPIsListing
