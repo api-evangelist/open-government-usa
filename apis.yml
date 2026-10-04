@@ -39,7 +39,6 @@ apis:
   - name: Open Government, USA
     description: "United States Government Open Data"
     humanURL: https://www.data.gov/
-    baseURL: https://www.data.gov/
     tags:
       - Government
     properties:
